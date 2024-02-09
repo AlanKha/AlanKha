@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Tennessee, passionate about 
 
 🔭 **Projects:**
 - **Calculator**: A web-based calculator that supports advanced operations, designed for usability across different devices. [View Project](https://github.com/AlanKha/Calculator)
-- **Weather Analysis Script**: A C++ application for weather data management, featuring an interactive UI and efficient data structures. [View Project](https://github.com/AlanKha/Climate-Tracker)
+- **Weather Analysis Script**: A C++ application for weather data management, featuring an interactive console and efficient data structures. [View Project](https://github.com/AlanKha/Climate-Tracker)
 - **Digital Etch-a-Sketch**: An emulator that brings the classic drawing toy to the web, with various drawing modes. [View Project](https://github.com/AlanKha/Etch-a-Sketch)
 - **File Organization Script**: A Python script to automate the organization of image files, enhancing file management efficiency. [View Project](https://github.com/AlanKha/Python-File-Organizer)
 

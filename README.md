@@ -13,9 +13,9 @@ I'm a Computer Science student at the University of Tennessee, passionate about 
 - **File Organization Script**: A Python script to automate the organization of image files, enhancing file management efficiency. [View Project](https://github.com/AlanKha/Python-File-Organizer)
 
 💻 **Technical Skills:**
-- **Languages**: C++, JavaScript, Python, HTML, CSS, Swift, RISC-V
-- **Developer Tools**: Git, VS Code, Jetbrains Toolbox, XCode
-- **Frameworks**: SwiftUI
+- **Languages**:  C++, Javascript, Python, HTML, CSS, Swift, RISC-V
+- **Developer Tools**: Git, MongoDB, VS Code, Jetbrains Toolbox, XCode
+- **Frameworks**: React, SwiftUI
 
 🌱 I’m currently learning more about fullstack web and mobile app development, and I'm always open to collaborate on projects or hackathons.
 

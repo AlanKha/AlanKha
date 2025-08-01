@@ -1,33 +1,62 @@
-### Hi there, I'm Alan Khalili! 👋  
-I'm a third-year Computer Science student at the University of Tennessee, passionate about creating efficient and innovative software solutions. 
+### Hi there, I'm Alan Khalili! 👋
 
-📚 **Education:**  
-- Bachelor of Science in Computer Science, GPA 3.7/4.0, University of Tennessee (Expected May 2026)
+I'm a Computer Science student at the University of Tennessee (expected to graduate in May 2026) with a passion for developing innovative and efficient software solutions.
 
-🔭 **Experience:**  
-- **Full Stack Developer, Mission of Hope** (Jan 2024 - May 2024)  
-  - Increased operational efficiency by 500% through the creation of internal systems for donors and admins.
-  - Delivered user-centric web pages, components, and API services using React, Next.js, Node.js, Typescript, and MongoDB with Mongoose.
+---
 
-🚀 **Projects:**  
-- **Inventory Management System**: Implemented a system for Mission of Hope donors and admins to track donation history, trends, donors, and values. Automated various tasks, resulting in a 500% increase in operational efficiency. [View Project](https://github.com/Hack4Impact-UTK/Mission-of-Hope)
-- **Coffee Recommender**: Developed a recommendation system using cosine similarity to suggest coffee bags based on numeric or textual descriptions, utilizing Python, pandas, and scikit-learn. [View Project](https://github.com/AlanKha/Coffee-Recommender)
-- **Routing Application**: Designed and implemented a high-performance C++ application to find the optimal route using Dijkstra's Algorithm. Used a triangular matrix to store distance and time weights for each city with the Haversine formula. [View Project](https://github.com/AlanKha/Routing-Application)
-- **Personal Portfolio**: Engineered and developed a responsive, modern portfolio website using React and Tailwind CSS, showcasing projects, skills, and professional journey. [View Project](https://github.com/AlanKha/portfolio)
-- **Calculator**: A web-based calculator supporting advanced operations, designed for usability across different devices. [View Project](https://github.com/AlanKha/Calculator)
-- **Weather Analysis Script**: A C++ application for weather data management, featuring an interactive console and efficient data structures. [View Project](https://github.com/AlanKha/Climate-Tracker)
-- **Digital Etch-a-Sketch**: An emulator that brings the classic drawing toy to the web, with various drawing modes. [View Project](https://github.com/AlanKha/Etch-a-Sketch)
-- **File Organization Script**: Automated file organization with a custom Python script that moves image files from the user's downloads folder to a dedicated "Pics" folder, utilizing Python's os, pathlib, glob, and shutil modules. [View Project](https://github.com/AlanKha/Python-File-Organizer)
+### 📚 Education
 
-💻 **Technical Skills:**  
-- **Languages**: JavaScript, TypeScript, C/C++, Python, Java, HTML, CSS  
-- **Frameworks & Libraries**: React, Next.js, Node.js, Tailwind CSS, Mongoose  
-- **Developer Tools**: Git, npm, MongoDB, VS Code, Jetbrains Toolbox, Linux/Unix
+-   **Bachelor of Science in Computer Science** | University of Tennessee, Knoxville, TN
+    -   *Expected Graduation:* May 2026
+    -   *GPA:* 3.7/4.0
 
-🌱 I'm currently learning more about full-stack web and mobile app development, and I'm always open to collaborating on projects or hackathons.
+---
 
-📫 **How to reach me:**  
-<br>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alan-khalili.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alankhalili)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan_khalili/)
+### 🔭 Experience
+
+-   **Software Engineer Intern** | Walmart | Bentonville, AR | *May 2025 - Aug 2025*
+    -   Engineered an XGBoost-based machine learning model to automate claim classification in Accounts Payable, targeting 90% accuracy.
+    -   Developed a full-stack model explainability dashboard using React and Java Spring Boot.
+    -   Containerized services with Docker and orchestrated deployment on an internal Kubernetes platform.
+
+-   **Developer and Director of Talent Development** | Hack4Impact | Knoxville, TN | *Jan 2024 - Present*
+    -   Architected and delivered full-stack, open-source web applications for non-profit partners, achieving upwards of 83% improvements in their operational flow.
+    -   Mentored a team of 30+ student developers and led technical workshops.
+    -   Designed and implemented scalable features using React with a RESTful Node.js backend and MongoDB.
+
+-   **Research Assistant** | University of Tennessee | Knoxville, TN | *Aug 2024 - May 2025*
+    -   Developing a real-time computer vision algorithm using YOLOv8 for shooter identification.
+    -   Generating synthetic training data using the Unreal Engine to optimize model performance.
+    -   Validating model performance against academic benchmarks.
+
+---
+
+### 🚀 Projects
+
+-   **GeekHack, Reimagined** | [GitHub/AlanKha/GeekHack-Reimagined](https://github.com/AlanKha/GeekHack-Reimagined)
+    -   Architected a complete overhaul of a legacy forum, building a modern, high-performance web application with React, Next.js, and Tailwind CSS.
+    -   Engineered a modular RESTful backend in Golang, using the Gin framework and a managed PostgreSQL database with GORM.
+    -   Designed a scalable architecture incorporating Redis for backend caching and Redux for robust frontend state management.
+
+-   **SCF Dashboard** | [GitHub/hack4impact-utk/st-christopher-truckers-relief-fund](https://github.com/hack4impact-utk/st-christopher-truckers-relief-fund)
+    -   Created an end-to-end, full-stack user and admin dashboard using Next.js, TypeScript, and MongoDB, which led to a 240% increase in user signups.
+    -   Established a CI/CD pipeline with GitHub Actions for automated linting, testing, and deployment.
+
+---
+
+### 💻 Technical Skills
+
+-   **Languages:** Python, TypeScript, Golang, Java, JavaScript, C++
+-   **ML/AI:** Scikit-learn, Pandas, NumPy, XGBoost, YOLOv8, SHAP
+-   **Frontend:** React, Next.js, Tailwind CSS, Redux, HTML/CSS
+-   **Backend:** Node.js, Express, Redis, Spring Boot, Gin, REST APIs, GORM
+-   **Databases:** PostgreSQL, MongoDB, Mongoose
+-   **DevOps & Infra:** Docker, Kubernetes (K8s), CI/CD, Git, GitHub Actions
+-   **Testing:** Jest, Vitest, Go Testing Package
+
+---
+
+### 📫 How to reach me
+
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alan-khalili.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alankhalili)
